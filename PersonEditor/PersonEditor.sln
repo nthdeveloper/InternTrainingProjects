@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_FirstWorkingForm", "01_F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ApplyNamingConventions", "02_ApplyNamingConventions\02_ApplyNamingConventions.csproj", "{BF8AD316-DA57-4416-B463-A647EF61E957}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_UseEntityClassAndBinding", "03_UseEntityClassAndBinding\03_UseEntityClassAndBinding.csproj", "{24DBF464-7BE4-4DD9-99C0-929A3E6905FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BF8AD316-DA57-4416-B463-A647EF61E957}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF8AD316-DA57-4416-B463-A647EF61E957}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF8AD316-DA57-4416-B463-A647EF61E957}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24DBF464-7BE4-4DD9-99C0-929A3E6905FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DBF464-7BE4-4DD9-99C0-929A3E6905FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DBF464-7BE4-4DD9-99C0-929A3E6905FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DBF464-7BE4-4DD9-99C0-929A3E6905FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
