@@ -1,4 +1,4 @@
-﻿namespace _01_FirstWorkingForm
+﻿namespace FirstWorkingForm
 {
     partial class Form2
     {

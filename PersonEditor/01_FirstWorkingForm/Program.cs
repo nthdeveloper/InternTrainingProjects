@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _01_FirstWorkingForm
+namespace FirstWorkingForm
 {
     static class Program
     {
