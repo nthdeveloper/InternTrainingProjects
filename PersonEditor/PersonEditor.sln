@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_FirstWorkingForm", "01_FirstWorkingForm\01_FirstWorkingForm.csproj", "{6F4735F5-AFFB-4312-8A5F-24822C8DCAF5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_ApplyNamingConventions", "02_ApplyNamingConventions\02_ApplyNamingConventions.csproj", "{BF8AD316-DA57-4416-B463-A647EF61E957}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_UseEntityClassAndBinding", "03_UseEntityClassAndBinding\03_UseEntityClassAndBinding.csproj", "{24DBF464-7BE4-4DD9-99C0-929A3E6905FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_ExportImportCSV", "04_ExportImportCSV\04_ExportImportCSV.csproj", "{9F7903BC-D3AD-40B3-AE53-D4FC22AD36B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{24DBF464-7BE4-4DD9-99C0-929A3E6905FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24DBF464-7BE4-4DD9-99C0-929A3E6905FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24DBF464-7BE4-4DD9-99C0-929A3E6905FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F7903BC-D3AD-40B3-AE53-D4FC22AD36B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7903BC-D3AD-40B3-AE53-D4FC22AD36B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7903BC-D3AD-40B3-AE53-D4FC22AD36B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7903BC-D3AD-40B3-AE53-D4FC22AD36B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
