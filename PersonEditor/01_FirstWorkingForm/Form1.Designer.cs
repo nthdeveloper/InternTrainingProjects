@@ -1,4 +1,4 @@
-﻿namespace FirstWorkingForm
+﻿namespace PersonEditor
 {
     partial class Form1
     {

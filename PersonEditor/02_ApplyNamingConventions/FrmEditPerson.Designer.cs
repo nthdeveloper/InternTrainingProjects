@@ -1,4 +1,4 @@
-﻿namespace ApplyNamingConventions
+﻿namespace PersonEditor
 {
     partial class FrmEditPerson
     {

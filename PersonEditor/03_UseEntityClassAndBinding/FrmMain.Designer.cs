@@ -1,4 +1,4 @@
-﻿namespace UseEntityClassAndBinding
+﻿namespace PersonEditor
 {
     partial class FrmMain
     {

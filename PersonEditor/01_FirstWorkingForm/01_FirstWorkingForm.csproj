@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{6F4735F5-AFFB-4312-8A5F-24822C8DCAF5}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_01_FirstWorkingForm</RootNamespace>
+    <RootNamespace>PersonEditor</RootNamespace>
     <AssemblyName>01_FirstWorkingForm</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -73,6 +73,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

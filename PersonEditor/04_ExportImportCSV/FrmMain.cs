@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ExportImportCSV
+namespace PersonEditor
 {
     public partial class FrmMain : Form
     {

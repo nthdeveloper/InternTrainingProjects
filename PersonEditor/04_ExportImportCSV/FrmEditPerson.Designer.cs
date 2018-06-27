@@ -1,4 +1,4 @@
-﻿namespace ExportImportCSV
+﻿namespace PersonEditor
 {
     partial class FrmEditPerson
     {

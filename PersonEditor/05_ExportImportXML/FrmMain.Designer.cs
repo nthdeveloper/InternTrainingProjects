@@ -1,4 +1,4 @@
-﻿namespace ExportImportXML
+﻿namespace PersonEditor
 {
     partial class FrmMain
     {

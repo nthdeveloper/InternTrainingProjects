@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{6229603F-9B65-4700-A31F-BC8D0BB270C8}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ExportImportXML</RootNamespace>
+    <RootNamespace>PersonEditor</RootNamespace>
     <AssemblyName>ExportImportXML</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -74,6 +74,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
